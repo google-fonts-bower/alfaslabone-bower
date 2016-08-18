@@ -1,0 +1,17 @@
+{
+    "name": "alfaslabone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "JM Sol\u00e9"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/alfaslabone-bower.git"
+    },
+    "description": "Alfa Slab One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
